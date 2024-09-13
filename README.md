@@ -16,6 +16,6 @@ py -m pip install -r requirements.txt
 
 ```shell
 git add .
-git commit -m "add .gitignore, cmds to readme"
+git commit -m "add .gitignore, update README with cmds"
 git push origin main
 ```
